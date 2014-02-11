@@ -1,7 +1,7 @@
 demo_formation_cnous
 ====================
 
-[![Build Status](https://travis-ci.org/rjacquelin/demo_formation_cnous)](https://travis-ci.org/rjacquelin/demo_formation_cnous)
+[![Build Status](https://travis-ci.org/rjacquelin/demo_formation_cnous.png)](https://travis-ci.org/rjacquelin/demo_formation_cnous)
 
 Le projet consiste à développer un mastermind en ligne : le joueur joue contre l'ordinateur
 
